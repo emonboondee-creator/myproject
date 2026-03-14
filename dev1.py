@@ -1,1 +1,2 @@
-print("hello dev!")
+word = "kuy"
+print("hello dev!",word)
